@@ -12,3 +12,4 @@ C:\Users\utc\Desktop\Calculator project\Calculator-Project\ConsoleCalculator\obj
 C:\Users\utc\Desktop\Calculator project\Calculator-Project\ConsoleCalculator\obj\Debug\net10.0\ConsoleCalculator.pdb
 C:\Users\utc\Desktop\Calculator project\Calculator-Project\ConsoleCalculator\obj\Debug\net10.0\ConsoleCalculator.genruntimeconfig.cache
 C:\Users\utc\Desktop\Calculator project\Calculator-Project\ConsoleCalculator\obj\Debug\net10.0\ref\ConsoleCalculator.dll
+C:\Users\utc\Desktop\Calculator project\Calculator-Project\ConsoleCalculator\obj\Debug\net10.0\ConsoleCalculator.sourcelink.json
