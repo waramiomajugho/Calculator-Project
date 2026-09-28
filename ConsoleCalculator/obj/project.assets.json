@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\utc\\Desktop\\Calculator project\\Calculator-Project\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\utc\\Desktop\\FULL STACK PROJECTS\\Simple Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "projectName": "ConsoleCalculator",
-      "projectPath": "C:\\Users\\utc\\Desktop\\Calculator project\\Calculator-Project\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectPath": "C:\\Users\\utc\\Desktop\\FULL STACK PROJECTS\\Simple Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "packagesPath": "C:\\Users\\utc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\utc\\Desktop\\Calculator project\\Calculator-Project\\ConsoleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\utc\\Desktop\\FULL STACK PROJECTS\\Simple Calculator\\ConsoleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\utc\\AppData\\Roaming\\NuGet\\NuGet.Config"

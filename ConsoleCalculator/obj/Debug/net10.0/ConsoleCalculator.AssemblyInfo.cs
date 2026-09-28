@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb9f1b098172f4b0bb4ef5dcba63d9d2f78b2412")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff1b4fa2d980aa3be347015b8c608d6a4aab067")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
